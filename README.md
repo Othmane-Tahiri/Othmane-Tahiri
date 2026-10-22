@@ -1,50 +1,67 @@
 <div align="center">
+<img src="./assets/cosmic-hero.svg" alt="Othmane Tahiri — Cosmic identity banner" width="100%">
 
-<img src="./assets/cosmic-hero.svg" alt="Othmane Tahiri — Brand & Visual Identity Designer" width="100%" />
+<br>
 
-<br />
-
-**BRAND & VISUAL IDENTITY DESIGNER** &nbsp; · &nbsp; MOROCCO
+**BRAND & VISUAL IDENTITY DESIGNER** &nbsp; ✦ &nbsp; **BASED IN MOROCCO**
 
 ### I build visual identities that people remember.
 
-Brand strategy · Logo design · Visual identity systems · Brand applications
+*Strategy · Logo design · Visual identity systems · Brand applications*
 
-[![Behance](https://img.shields.io/badge/BEHANCE-EXPLORE%20MY%20WORK-7C3AED?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tahiriothmane)
-[![Email](https://img.shields.io/badge/CONTACT-LET'S%20COLLABORATE-23113C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahiriotmane6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-7C3AED?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tahiriothmane)
+[![Contact](https://img.shields.io/badge/LET'S_COLLABORATE-241238?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahiriotmane6@gmail.com)
 
 </div>
 
----
+<br>
 
-### ✦ Selected work
+<img src="./assets/selected-work.svg" alt="Selected work" width="100%">
 
-> **01 / VANDARI** — Premium French butcher brand identity  
-> **02 / UniStay** — Student housing visual identity  
-> **03 / Saffron Lane** — Restaurant brand identity
+<table>
+<tr>
+<td width="33%" align="center"><h3>01 · VANDARI</h3><b>Premium French butcher</b><br>Brand identity & applications<br><br><a href="https://www.behance.net/tahiriothmane">Explore on Behance ↗</a></td>
+<td width="33%" align="center"><h3>02 · UniStay</h3><b>Student housing</b><br>Logo & visual identity<br><br><a href="https://www.behance.net/tahiriothmane">Explore on Behance ↗</a></td>
+<td width="33%" align="center"><h3>03 · Saffron Lane</h3><b>Restaurant identity</b><br>Branding & applications<br><br><a href="https://www.behance.net/tahiriothmane">Explore on Behance ↗</a></td>
+</tr>
+</table>
 
-[Explore the projects on Behance ↗](https://www.behance.net/tahiriothmane)
+<!-- ASSET TODO: Place the user's three original uploaded project covers in assets/ and add them above their corresponding titles. Do not replace with AI-generated approximations or recolor the identities. -->
 
-<!-- The three user-supplied original cover images will be embedded here after asset upload is supported. Do not recolor or alter original logos. -->
+<img src="./assets/process.svg" alt="Creative process" width="100%">
 
-### ✦ Creative process
+<table>
+<tr><th align="center">01 / DISCOVER</th><th align="center">02 / DEFINE</th><th align="center">03 / DESIGN</th><th align="center">04 / DELIVER</th></tr>
+<tr><td align="center">Understand the brand and its audience</td><td align="center">Set strategy and creative direction</td><td align="center">Craft the identity system</td><td align="center">Prepare applications and files</td></tr>
+</table>
 
-| 01 · DISCOVER | 02 · DEFINE | 03 · DESIGN | 04 · DELIVER |
-|:--:|:--:|:--:|:--:|
-| Research & understand | Strategy & direction | Build the identity | Prepare the system |
+<sub>Process is a temporary overview and will be updated to reflect my complete client workflow.</sub>
 
-*This process section is editable and will be updated to reflect my full client workflow.*
+<br><br>
 
-### ✦ Creative toolkit
+### ✦ 03 / CREATIVE TOOLKIT
 
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-311400?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![Figma](https://img.shields.io/badge/Figma-201335?style=for-the-badge&logo=figma&logoColor=F24E1E)
+<div align="center">
 
-### ✦ Open for collaborations
+![Illustrator](https://img.shields.io/badge/ADOBE_ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=251222)
+![Photoshop](https://img.shields.io/badge/ADOBE_PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=251222)
+![Figma](https://img.shields.io/badge/FIGMA-A259FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=251222)
 
-I work with founders and teams to create memorable visual identities with purpose, clarity, and character.
+*The tools I use to bring ideas into visual identities.*
 
-[Behance](https://www.behance.net/tahiriothmane) · [LinkedIn](https://www.linkedin.com/in/otmanetahiri85) · [Instagram](https://www.instagram.com/othmane.tahiri_/) · [Email](mailto:tahiriotmane6@gmail.com)
+</div>
 
-<div align="center"><sub>OT / CREATIVE UNIVERSE · BUILT WITH INTENTION</sub></div>
+<br>
+
+<img src="./assets/contact.svg" alt="Open for collaborations" width="100%">
+
+<div align="center">
+
+[![Behance](https://img.shields.io/badge/Behance-7C3AED?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/tahiriothmane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otmanetahiri85)
+[![Instagram](https://img.shields.io/badge/Instagram-7C3AED?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/othmane.tahiri_/)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:tahiriotmane6@gmail.com)
+
+<sub>OT / CREATIVE UNIVERSE — DESIGN WITH PURPOSE, BUILT TO BE REMEMBERED.</sub>
+
+</div>
