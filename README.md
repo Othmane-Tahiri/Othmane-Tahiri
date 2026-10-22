@@ -5,6 +5,8 @@
 
 **BRAND & VISUAL IDENTITY DESIGNER** &nbsp; ✦ &nbsp; **BASED IN MOROCCO**
 
+<img src="./assets/cosmic-orbit.gif" alt="Animated violet cosmic orbit" width="160" height="96" />
+
 ### I build visual identities that people remember.
 
 *Strategy · Logo design · Visual identity systems · Brand applications*
