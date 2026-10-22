@@ -22,13 +22,12 @@
 
 <table>
 <tr>
-<td width="33%" align="center"><h3>01 · VANDARI</h3><b>Premium French butcher</b><br>Brand identity & applications<br><br><a href="https://www.behance.net/tahiriothmane">Explore on Behance ↗</a></td>
-<td width="33%" align="center"><h3>02 · UniStay</h3><b>Student housing</b><br>Logo & visual identity<br><br><a href="https://www.behance.net/tahiriothmane">Explore on Behance ↗</a></td>
-<td width="33%" align="center"><h3>03 · Saffron Lane</h3><b>Restaurant identity</b><br>Branding & applications<br><br><a href="https://www.behance.net/tahiriothmane">Explore on Behance ↗</a></td>
+<td width="33%" align="center"><a href="https://www.behance.net/tahiriothmane"><img src="./assets/vandari.jpg" alt="VANDARI brand identity project cover" width="100%"></a><br><h3>01 · VANDARI</h3><b>Premium French butcher</b><br>Brand identity & applications<br><br><a href="https://www.behance.net/tahiriothmane">Explore on Behance ↗</a></td>
+<td width="33%" align="center"><a href="https://www.behance.net/tahiriothmane"><img src="./assets/unistay.jpg" alt="UniStay visual identity project cover" width="100%"></a><br><h3>02 · UniStay</h3><b>Student housing</b><br>Logo & visual identity<br><br><a href="https://www.behance.net/tahiriothmane">Explore on Behance ↗</a></td>
+<td width="33%" align="center"><a href="https://www.behance.net/tahiriothmane"><img src="./assets/saffron-lane.jpg" alt="Saffron Lane restaurant brand identity cover" width="100%"></a><br><h3>03 · Saffron Lane</h3><b>Restaurant identity</b><br>Branding & applications<br><br><a href="https://www.behance.net/tahiriothmane">Explore on Behance ↗</a></td>
 </tr>
 </table>
 
-<!-- ASSET TODO: Place the user's three original uploaded project covers in assets/ and add them above their corresponding titles. Do not replace with AI-generated approximations or recolor the identities. -->
 
 <img src="./assets/process.svg" alt="Creative process" width="100%">
 
