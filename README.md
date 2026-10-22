@@ -10,9 +10,9 @@
 ### ✦ FEATURED PROJECTS
 
 <table><tr>
-<td width="33%" valign="top"><a href="https://www.behance.net/tahiriothmane"><img src="./assets/vandari.jpg" alt="VANDARI brand identity" width="100%"></a><br><strong>01 — VANDARI</strong><br><sub>Premium French Butcher Brand Identity</sub></td>
-<td width="33%" valign="top"><a href="https://www.behance.net/tahiriothmane"><img src="./assets/unistay.jpg" alt="UniStay brand identity" width="100%"></a><br><strong>02 — UniStay</strong><br><sub>Student Housing Brand Identity</sub></td>
-<td width="33%" valign="top"><a href="https://www.behance.net/tahiriothmane"><img src="./assets/saffron-lane.jpg" alt="Saffron Lane brand identity" width="100%"></a><br><strong>03 — Saffron Lane</strong><br><sub>Restaurant Brand Identity</sub></td>
+<td width="33%" valign="top"><a href="https://www.behance.net/tahiriothmane"><img src="./assets/vandari-card.jpg" alt="VANDARI brand identity" width="100%"></a><br><strong>01 — VANDARI</strong><br><sub>Premium French Butcher Brand Identity</sub></td>
+<td width="33%" valign="top"><a href="https://www.behance.net/tahiriothmane"><img src="./assets/unistay-card.jpg" alt="UniStay brand identity" width="100%"></a><br><strong>02 — UniStay</strong><br><sub>Student Housing Brand Identity</sub></td>
+<td width="33%" valign="top"><a href="https://www.behance.net/tahiriothmane"><img src="./assets/saffron-lane-card.jpg" alt="Saffron Lane brand identity" width="100%"></a><br><strong>03 — Saffron Lane</strong><br><sub>Restaurant Brand Identity</sub></td>
 </tr></table>
 
 <img src="./assets/process-reference.svg" alt="Discover, Define, Design, Deliver — creative process" width="100%">
