@@ -2,6 +2,8 @@
 
 <img src="./assets/hero-reference.svg" alt="Othmane Tahiri — cosmic holographic brand designer portfolio" width="100%">
 
+<img src="./assets/hero-motion.gif" alt="Automatically looping violet planetary orbit animation" width="100%">
+
 [![See my work](https://img.shields.io/badge/SEE_MY_WORK-7029D9?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tahiriothmane) &nbsp; [![Let's connect](https://img.shields.io/badge/LET'S_CONNECT-180D30?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otmanetahiri85)
 
 </div>
