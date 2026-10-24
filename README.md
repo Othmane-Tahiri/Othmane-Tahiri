@@ -7,6 +7,8 @@
 
 </div>
 
+<img src="./assets/profile-glow.svg" alt="Othmane Tahiri portrait in a neon-purple orbital ring" width="100%">
+
 ### ✦ FEATURED PROJECTS
 
 <table><tr>
