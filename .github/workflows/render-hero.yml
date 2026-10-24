@@ -1,0 +1,24 @@
+name: Render cinematic animated hero
+on:
+  push:
+    branches: [main]
+    paths: ['scripts/render_hero.py', '.github/workflows/render-hero.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install pillow
+      - run: python scripts/render_hero.py
+      - name: Publish validated GIF
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/animated-hero.gif
+          git diff --cached --quiet || (git commit -m "Render valid autoplay cinematic hero GIF" && git push)
