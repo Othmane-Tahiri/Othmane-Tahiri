@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Othmane-Tahiri/Othmane-Tahiri/main/assets/animated-hero.gif?version=2" alt="Animated cosmic planet and Othmane Tahiri brand identity designer headline" width="100%">
+<img src="./assets/hero-reference.svg" alt="Othmane Tahiri — cinematic purple cosmic brand identity portfolio with a glowing planet" width="100%">
 
 
 [![See my work](https://img.shields.io/badge/SEE_MY_WORK-7029D9?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tahiriothmane) &nbsp; [![Let's connect](https://img.shields.io/badge/LET'S_CONNECT-180D30?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otmanetahiri85)
