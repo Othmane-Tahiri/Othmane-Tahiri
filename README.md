@@ -29,10 +29,7 @@
 
 <div align="center">
 
-[![Behance](https://img.shields.io/badge/BEHANCE-7C3AED?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tahiriothmane)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otmanetahiri85)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/othmane.tahiri_/)
-[![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahiriotmane6@gmail.com)
+<table><tr><td width="25%" align="center"><a href="https://www.behance.net/tahiriothmane"><img src="./assets/social-behance.svg" alt="behance — connect with Othmane Tahiri" width="100%"></a></td><td width="25%" align="center"><a href="https://www.linkedin.com/in/otmanetahiri85"><img src="./assets/social-linkedin.svg" alt="linkedin — connect with Othmane Tahiri" width="100%"></a></td><td width="25%" align="center"><a href="https://www.instagram.com/othmane.tahiri_/"><img src="./assets/social-instagram.svg" alt="instagram — connect with Othmane Tahiri" width="100%"></a></td><td width="25%" align="center"><a href="mailto:tahiriotmane6@gmail.com"><img src="./assets/social-email.svg" alt="email — connect with Othmane Tahiri" width="100%"></a></td></tr></table>
 
 <sub>CREATIVE UNIVERSE · BRAND & VISUAL IDENTITY DESIGNER</sub>
 
