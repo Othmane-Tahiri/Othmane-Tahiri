@@ -34,6 +34,6 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/othmane.tahiri_/)
 [![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahiriotmane6@gmail.com)
 
-<sub>OT / CREATIVE UNIVERSE · BRAND & VISUAL IDENTITY DESIGNER</sub>
+<sub>CREATIVE UNIVERSE · BRAND & VISUAL IDENTITY DESIGNER</sub>
 
 </div>
